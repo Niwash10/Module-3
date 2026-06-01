@@ -12,9 +12,17 @@ To write a Python program to check whether the string `"google"` is a **palindro
 4. Execute the program.
 
 ## 🧾 Program
+```
+n=int(input())
+def remove(a):
+    for i in range(0,len(a)):
+        if(i!=n):
+            print(a[i],end='')
+```
 
-Add code here
 
 ## Output
+<img width="652" height="193" alt="image" src="https://github.com/user-attachments/assets/067b3ea9-0472-4582-bb29-e8c6b7cb0032" />
 
 ## Result
+Thus the program executed successfully.
